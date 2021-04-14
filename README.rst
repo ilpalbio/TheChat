@@ -28,7 +28,7 @@ Usage
 * To install Python click on this link:
     https://www.python.org/downloads/
 
-*To install Tkinter write on the terminal:
+* To install Tkinter write on the terminal:
 
     '' pip install tkinter --user''
 
