@@ -5,12 +5,12 @@ TheChat
 Description
 ===========
 
-This is a program that help the people that have a problem in a particular subject at school
+Program that helps people with difficulties in school subjects
 
 Features
 --------
 
-Help people to learn well the subject
+Helps people understand school subjects better
 
 Authors
 =======
